@@ -1,0 +1,163 @@
+body {
+            font-family:Arial, Helvetica, sans-serif;
+            font-size:14px;
+
+            
+         }
+
+
+/* Menubar */
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    background:   #B0C4DE;
+    max-width: 960px;
+}
+
+.header {
+    padding: 20px;
+}
+
+.navbar {
+    margin-bottom: 40px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.wrapper {
+    background: #F8F8FF;
+    margin-right: auto;
+    margin-left:  auto;
+    max-width: 1300px; 
+    padding-right: 10px; 
+    padding-left:  10px; 
+    border: 1px solid black
+}
+.container{
+    border: 1px solid black;
+     position:relative;
+     top: 10px;
+     left: 5px;
+     right: 10px;
+     bottom: -10px;
+
+}
+
+.edit-data{
+    font-size: 18px;
+
+}
+ 
+/* Menubar */
+
+
+
+
+/* database box design*/
+table{
+    border: 1px solid #52a7d2;
+    background: #eef5f7;
+}
+
+td {
+    border: 1px solid #52a7d2 !important;
+}
+
+thead {
+    border: 1px solid #f1e1e1 !important;
+    background: #cadbe2;
+}
+/* database box design*/
+
+
+
+
+
+
+
+
+
+/* all pages add/Edit button*/
+.btn-add{
+    
+    height: 50px;
+    width: 100px;    
+    font-size: 17px;
+    color: white;
+    background: #5F9EA0;
+    border: black;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+.btn-edit{
+    
+    cursor:pointer;
+}
+
+.btn-delete{
+    
+
+    cursor:pointer;
+}
+/* all pages add/Edit button*/
+    
+
+
+.col-sm-6{
+    padding:10px;
+}
+
+
+
+
+
+
+
+
+
+/* all pages add/Edit Label Title*/
+      label {
+            font-weight:bold;
+            width:200px;
+            font-size:16px;
+         }
+         
+         .box {
+            border:#666666 solid 1px;
+
+         }
+
+       
+     /*  .search_me {
+        font-weight: bold;
+        width: 740px; 
+        height: auto;
+        margin: 0 auto;
+        padding: 10px;
+        position: relative; 
+    }/*
+
+
+
+
+    /* all pages add and update button*/
+    .searchbtn{
+        cursor:pointer;
+    }
+
+    /* medicine,patient,doctors - search place css*/
+    .searchPlace {
+        font-style: italic;
+        font-weight: bold;
+        background-color: lightgrey;
+        width: 300px;
+        padding: 10px;
+        margin: 25px;
+        position: center;
+        border: 1px solid black
+        
+
+}
